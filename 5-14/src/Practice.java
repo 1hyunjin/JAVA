@@ -31,7 +31,17 @@ public class Practice {
 
 
 //StringBuffer st = new StringBuffer("ASDV"); 
-//st.append("sd"); //³¡¿¡ ºÙÀÓ
-//st.insert(2,"BC"); //Áß°£ »ğÀÔ
+//st.append("sd"); //Â³Â¡Â¿Â¡ ÂºÃ™Ã€Ã“
+//st.insert(2,"BC"); //ÃÃŸÂ°Â£ Â»Ã°Ã€Ã”
 //System.out.println(st);
-//	
+//
+
+import java.until.Vector;
+
+Vector<Integer> vi = new Vector<Integer>();
+		vi.add(7);
+		vi.add(9);
+		for(int i=0; i< vi.size(); i++) {
+			System.out.println(vi.get(i));
+		}
+		
