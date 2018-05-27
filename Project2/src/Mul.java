@@ -1,7 +1,5 @@
 
-public class Mul {
-	private int a;
-	private int b;
+public class Mul extends Calc {
 	
 	public void setValue(int a, int b) {
 		this.a = a;

@@ -1,7 +1,5 @@
 
-public class Sub {
-	private int a;
-	private int b;
+public class Sub extends Calc{
 	
 	public void setValue(int a, int b) {
 		this.a = a;

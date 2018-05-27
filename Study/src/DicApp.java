@@ -18,6 +18,8 @@ public class DicApp extends Dictionary {
 				System.out.println(word+ "는 제사전에 없습니다.");
 			}
 		
+		in.close();
 		}
 	}
+	
 }
