@@ -38,7 +38,7 @@ public class MainStudent {
 			else {
 				for(int i=0;i<4;i++) {
 					if(na.equals(st.get(i).name)) {
-						System.out.println(st.get(i).name + ", " + st.get(i).department + ", " + st.get(i).num + ", " + st.get(i).average);
+				System.out.println(st.get(i).name + ", " + st.get(i).department + ", " + st.get(i).num + ", " + st.get(i).average);
 					}
 				}
 			}
